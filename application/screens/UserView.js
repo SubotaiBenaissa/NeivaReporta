@@ -153,6 +153,8 @@ function UserView({ navigation }) {
   );
 }
 
+//cola colal
+
 const styles = StyleSheet.create({
   fullcontainer: {
     justifyContent: "center",
